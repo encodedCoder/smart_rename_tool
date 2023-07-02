@@ -4,4 +4,4 @@ This Smart Rename Tool is our go-to tool when we have many files without the fil
 ## Note: 
 I created this tool to identify the files I sent on WhatsApp, for some reason, the filename extension was not present in these files. I had some idea that it contains mp4, jpeg and pdf only. So This program will only identify and rename the files which are .mp4, .jpeg, and .pdf. If there are other file types then "print(file_path)" and "print(filetype)" these two statements will give you enough idea about other datatypes of files with file_path above it.
 
-### This is the first version of the Smart rename tool. If there are other improvements to the tool, then fork the repo and pull your updates.
+### This is the first version of the Smart rename tool. If you think there can be other improvements to the tool, then fork the repo and pull your updates.
